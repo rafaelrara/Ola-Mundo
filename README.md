@@ -1,6 +1,10 @@
 # Olá, Mundo!
- Primeiro Repositório do curso de Git e GitHub
+ Primeiro Repositório do curso de Git e GitHub do site CursoEmVídeo - Prof.Guanabara.
 
- Repositório criado durante uma aula ao vivo!
+ Atividades:
  
- Linha adicionada diretamente no site!
+ *Repositório criado durante uma aula ao vivo!
+ 
+ *Linha adicionada diretamente no site!
+
+ *Criado JS e exemplo de manipulação de datas
